@@ -7,3 +7,11 @@
 a {
     text-decoration: none;
 }
+
+p {
+    font-weight: 600;
+}
+
+h2 {
+    font-weight: 400;
+}
